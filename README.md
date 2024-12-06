@@ -11,6 +11,9 @@ Please directly clone this repository. Navigate to the cloned directory
 
 Please make sure you have node.js and npm installed. For frontend you also need Expo Go set up on your mobile phone.
 
+## Submodules set up
+- At the cloned repository root, run `git submodule update --init --recursive`.
+
 ### Backend Installation
 - Navigate to `tunelink-backend`.
 - Create a new .env file.
