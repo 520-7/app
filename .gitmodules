@@ -1,0 +1,6 @@
+[submodule "tunelink-backend"]
+	path = tunelink-backend
+	url = https://github.com/520-7/tunelink-backend.git
+[submodule "tunelink-frontend"]
+	path = tunelink-frontend
+	url = https://github.com/520-7/tunelink-frontend.git
