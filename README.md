@@ -4,6 +4,12 @@ Made by Ozel Yilmazel, Aryan Nair, Hanna Jiang, Rachel Lahav, Ryan Zaid
 ## Introduction
 TuneLink is a mobile social media platform designed to help music enthusiasts discover and share music through short snippets. The app allows users to link their snippets to Spotify or YouTube for full song access, encouraging both discovery and promotion of new music. Users will be able to interact with the music snippets through likes and follows, creating a vibrant community centered around music sharing and discovery.
 
+## Links to code repos
+Follow these repositories for implementation, and more in depth README's.
+
+[Tunelink Frontend Repository](https://github.com/520-7/tunelink-frontend)
+[Tunelink Backend Repository](https://github.com/520-7/tunelink-backend)
+
 ## Installation instructions and configuration
 This section will prepare your local copy to run the application and tests.
 
