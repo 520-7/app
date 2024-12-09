@@ -2,9 +2,9 @@
 Made by Ozel Yilmazel, Aryan Nair, Hanna Jiang, Rachel Lahav, Ryan Zaid
 
 # For Graders
-2. Source code can be found in the repos linkedin in this repository, one for the frontend and one for the backend.
-3. Test code in labelled test folder in repository.
-4. Comprehensive ReadMe in each repository, most general overview can be found in the frontend repository.
+2. Source code can be found in the repos linked in in this repository, one for the frontend and one for the backend. [Tunelink Frontend Repository](https://github.com/520-7/tunelink-frontend) [Tunelink Backend Repository](https://github.com/520-7/tunelink-backend)
+3. Test code found in repository folder labelled tests [TuneLink tests](https://github.com/520-7/tunelink-backend/tree/main/tests).
+4. Comprehensive ReadMe in each repository, most general overview can be found in the frontend repository at [Tunelink Frontend Repository](https://github.com/520-7/tunelink-frontend).
 5. Demo at [TuneLink WalkThrough](https://drive.google.com/file/d/1na2T1S1jm1Wh_7zE_rlJNU153vUyQzkb/view)
 
 ## Introduction
