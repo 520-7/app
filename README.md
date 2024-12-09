@@ -2,10 +2,12 @@
 Made by Ozel Yilmazel, Aryan Nair, Hanna Jiang, Rachel Lahav, Ryan Zaid
 
 # For Graders
-2. Source code can be found in the repos linked in in this repository, one for the frontend and one for the backend. [Tunelink Frontend Repository](https://github.com/520-7/tunelink-frontend) [Tunelink Backend Repository](https://github.com/520-7/tunelink-backend)
-3. Test code found in repository folder labelled tests [TuneLink tests](https://github.com/520-7/tunelink-backend/tree/main/tests).
-4. Comprehensive ReadMe in each repository, most general overview can be found in the frontend repository at [Tunelink Frontend Repository](https://github.com/520-7/tunelink-frontend).
-5. Demo at [TuneLink WalkThrough](https://drive.google.com/file/d/1na2T1S1jm1Wh_7zE_rlJNU153vUyQzkb/view)
+1. URL FOR THIS REPOSITORY: `https://github.com/520-7/app`
+2. We have organized our code in submodules, this repository is a parent repository to obey submission guidelines.
+3. Source code can be found in the repos linked in in this repository, one for the frontend and one for the backend. [Tunelink Frontend Repository](https://github.com/520-7/tunelink-frontend) [Tunelink Backend Repository](https://github.com/520-7/tunelink-backend)
+4. Test code found in repository folder labelled tests [TuneLink tests](https://github.com/520-7/tunelink-backend/tree/main/tests).
+5. Comprehensive ReadMe in each repository, most general overview can be found in the frontend repository at [Tunelink Frontend Repository](https://github.com/520-7/tunelink-frontend).
+6. Demo at [TuneLink WalkThrough](https://drive.google.com/file/d/1na2T1S1jm1Wh_7zE_rlJNU153vUyQzkb/view)
 
 ## Introduction
 TuneLink is a mobile social media platform designed to help music enthusiasts discover and share music through short snippets. The app allows users to link their snippets to Spotify or YouTube for full song access, encouraging both discovery and promotion of new music. Users will be able to interact with the music snippets through likes and follows, creating a vibrant community centered around music sharing and discovery.
