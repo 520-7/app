@@ -1,8 +1,17 @@
 # Tunelink CS520 Project
 Made by Ozel Yilmazel, Aryan Nair, Hanna Jiang, Rachel Lahav, Ryan Zaid
 
+# For Graders
+2. Source code can be found in the repos linkedin in this repository, one for the frontend and one for the backend.
+3. Test code in labelled test folder in repository.
+4. Comprehensive ReadMe in each repository, most general overview can be found in the frontend repository.
+5. Demo at [TuneLink WalkThrough](https://drive.google.com/file/d/1na2T1S1jm1Wh_7zE_rlJNU153vUyQzkb/view)
+
 ## Introduction
 TuneLink is a mobile social media platform designed to help music enthusiasts discover and share music through short snippets. The app allows users to link their snippets to Spotify or YouTube for full song access, encouraging both discovery and promotion of new music. Users will be able to interact with the music snippets through likes and follows, creating a vibrant community centered around music sharing and discovery.
+
+### Demo Video
+[TuneLink WalkThrough](https://drive.google.com/file/d/1na2T1S1jm1Wh_7zE_rlJNU153vUyQzkb/view)
 
 ## Links to individual code repos
 We had to make this parent repository for rubric purposes, you can explore individual components here.
@@ -60,5 +69,4 @@ Please make sure you have node.js and npm installed. For frontend you also need 
 
 Tests cover each route in the API, and covers controller logic of each route. You can also test with Postman with your own queries.
 
-
-email authors with any questions. Feel free to browse tickets on our project on GitHub Projects of the organization.
+Email authors with any questions. Feel free to browse tickets on our project on GitHub Projects of the organization.
