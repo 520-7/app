@@ -8,3 +8,5 @@
 - Hanna Jiang: Profile screen, sign up screen, post screen, feed screen, frontend server requests, minor bug fixes, basic server tests.
 
 - Aryan Nair: Sign up screen, login screen, onboarding screen, feed screen, frontend server requests, UI fixes, logo design, integrated feed screen w/ other screens.
+
+- Rachel Lahav: Genre search, login/signup screen, minor bug fixes, quality testing
