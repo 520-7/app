@@ -75,5 +75,6 @@ Tests cover each route in the API, and covers controller logic of each route. Yo
 - Ozel Yilmazel: Backend server, post routes, user routes, mongodb integration, recommendation algorithm, upload post functionality, bug patches, backend API tests.
 - Ryan Zaid: Search screen, profile screen, edit profile screen, following screen, frontend server requests, minor backend bug fixes.
 - Hanna Jiang: Profile screen, sign up screen, post screen, feed screen, frontend server requests, minor bug fixes, basic server tests.
+- Aryan Nair: Sign up screen, login screen, onboarding screen, feed screen, frontend server requests, UI fixes, logo design, integrated feed screen w/ other screens.
 
 Email authors with any questions. Feel free to browse tickets on our project on GitHub Projects of the organization.
