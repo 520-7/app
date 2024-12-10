@@ -6,3 +6,5 @@
   - Search screen allows users to look up accounts and accounts with a genre. Profile/edit screen allows users to change their details later on. Has developed frontend by connecting it to backend, all data is passed from frontend. Worked in some bug fixes. Used react-native and paper.
 
 - Hanna Jiang: Profile screen, sign up screen, post screen, feed screen, frontend server requests, minor bug fixes, basic server tests.
+
+- Aryan Nair: Sign up screen, login screen, onboarding screen, feed screen, frontend server requests, UI fixes, logo design, integrated feed screen w/ other screens.
