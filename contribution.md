@@ -12,11 +12,11 @@
   - Data was fetched at each screen based on userId from MongoDB, leaving less room for vulnerability in passing of data.
   - This was an expansion on the base design of the entire frontend designed by Aryan. Aryan started with implementing the Signup, Onboarding, and Feed screens in order to establish a color scheme and base code structure.
   - Hanna and Rachel further expanded on these, making them more readable and usable by honing in their design
-- Linked the frontend to the backend using fetch requests
-  - handled error in which a user's IP address needed to be passed into requests and handled on the server
-  - fixed backend "PUT" requests to allow for updating images. Uploading of images ("POST") was handled by Ozel within the user authentication route accessed by the signup screen, but no routing was implemented for the changing of these images. This was important to allow users to change their profile picture
-- Miscellaneous bugs
-  - error handling for user not found during search, others
+  - Linked the frontend to the backend using fetch requests
+    - handled error in which a user's IP address needed to be passed into requests and handled on the server
+    - fixed backend "PUT" requests to allow for updating images. Uploading of images ("POST") was handled by Ozel within the user authentication route accessed by the signup screen, but no routing was implemented for the changing of these images. This was important to allow users to change their profile picture
+  - Miscellaneous bugs
+    - error handling for user not found during search, others
 
 - Hanna Jiang: Profile screen, sign up screen, post screen, feed screen, frontend server requests, minor bug fixes, basic server tests.
   - Different creens allow the user to interaect with the app and see their social network. UI elements from React Native and paper, and connected backend API calls to the frontend for a seamless user experience. The feed page uses the recommendation algorithm and posts held in the Mongo database, and the signup integrates with the baceknd to hold new profiles, as well as encrypts passwords. Bug fixes, usually for type errors.
