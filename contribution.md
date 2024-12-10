@@ -9,7 +9,7 @@
   - Different creens allow the user to interaect with the app and see their social network. UI elements from React Native and paper, and connected backend API calls to the frontend for a seamless user experience. The feed page uses the recommendation algorithm and posts held in the Mongo database, and the signup integrates with the baceknd to hold new profiles, as well as encrypts passwords. Bug fixes, usually for type errors.
 
 - Aryan Nair: Sign up screen, login screen, onboarding screen, feed screen, frontend server requests, UI fixes, logo design, integrated feed screen w/ other screens.
- - Created onboarding and feed page with React Native and paper to provide fluid user experience. Frontend server requests to retrieve other user data and authenticate user. Feed page is the main page, so tried variations of it (Instagram, Spotify like posts) until decided on the final design that fit with the project.
+   - Created onboarding and feed page with React Native and paper to provide fluid user experience. Frontend server requests to retrieve other user data and authenticate user. Feed page is the main page, so tried variations of it (Instagram, Spotify like posts) until decided on the final design that fit with the project.
 
 - Rachel Lahav: Genre search, login/signup screen, minor bug fixes, quality testing
   - Genre search allow users to search up 5 random accounts who share the genre of interest. Login and signup essential to onboarding, done in React Native and paper. Quality checks in code for formatting and commenting code.
