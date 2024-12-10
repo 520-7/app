@@ -72,6 +72,8 @@ Please make sure you have node.js and npm installed. For frontend you also need 
 Tests cover each route in the API, and covers controller logic of each route. You can also test with Postman with your own queries.
 
 ## Contributions
-- Ozel Yilmazel: Backend server, post routes, user routes, mongodb integration, recommendation algorithm, upload post functionality, bug patches, backend API tests
+- Ozel Yilmazel: Backend server, post routes, user routes, mongodb integration, recommendation algorithm, upload post functionality, bug patches, backend API tests.
+- Ryan Zaid: Search screen, profile screen, edit profile screen, following screen, frontend server requests, minor backend bug fixes.
+- Hanna Jiang: Profile screen, sign up screen, post screen, feed screen, frontend server requests, minor bug fixes, basic server tests.
 
 Email authors with any questions. Feel free to browse tickets on our project on GitHub Projects of the organization.
